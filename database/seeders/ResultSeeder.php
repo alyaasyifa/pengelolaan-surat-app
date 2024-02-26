@@ -15,7 +15,7 @@ class ResultSeeder extends Seeder
         //
         Result::create([
             'letter_id' => 1,
-            'notes' => 'Apa aja oke oke oke oke kanjud',
+            'notes' => 'Apa aja oke oke oke oke',
             'presence_recipients' => 'Alisah'
         ]);
     }
